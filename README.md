@@ -16,7 +16,3 @@
 
 6.
 ![image](https://github.com/user-attachments/assets/093b6f7b-a32e-411e-a622-d0226d2d5403)
-
-
-
-![image](https://github.com/user-attachments/assets/98f3812f-a41f-4544-b621-97f80e99c881)
