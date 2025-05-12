@@ -1,1 +1,5 @@
+Viðar Darri Egilsson
 
+ÉG var að vinna á þessu verkefni einn svo ég skrifaði 
+allan kóðan og ég fann flest commands á netinu og ég 
+skrifaði githubbið.
